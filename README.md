@@ -1,4 +1,4 @@
-# ☁️ Data Technician Workbook - Microsoft Azure
+# ☁️ Data Technician Workbook - Microsoft Azure | JustIT [(PDF)](https://github.com/nathan-mullings-dev/excel-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Excel%20Project.pdf)
 
 ---
 
