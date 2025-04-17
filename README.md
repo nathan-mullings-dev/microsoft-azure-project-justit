@@ -1,4 +1,4 @@
-# ☁️ Data Technician Workbook - Microsoft Azure | JustIT [(PDF)](https://github.com/nathan-mullings-dev/microsoft-azure-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Microsoft%20Azure.pdf)
+# ☁️ Data Technician Workbook - Microsoft Azure | Just IT's Data Skills Bootcamp [(PDF)](https://github.com/nathan-mullings-dev/microsoft-azure-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Microsoft%20Azure.pdf)
 
 ---
 
