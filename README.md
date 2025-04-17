@@ -4,7 +4,7 @@
 
 ## 📘 Project Overview
 
-This workbook documents my completion of the **Azure module** in the ##Just IT's Data Skills Bootcamp##. It explores foundational cloud computing concepts, legal and ethical considerations, and hands-on planning for real-world data migration using Microsoft Azure services.
+This workbook documents my completion of the **Azure module** in the ## Just IT's Data Skills Bootcamp ##. It explores foundational cloud computing concepts, legal and ethical considerations, and hands-on planning for real-world data migration using Microsoft Azure services.
 
 The capstone task involves designing a full Azure-based data solution for a business scenario — *Paws & Whiskers*, a growing pet shop transitioning from spreadsheets to cloud-based analytics.
 
